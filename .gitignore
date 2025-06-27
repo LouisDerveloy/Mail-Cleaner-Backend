@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+client_secret*
+
+
 # Distribution / packaging
 .Python
 build/
